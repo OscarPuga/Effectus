@@ -1,6 +1,8 @@
 # Effectus
 Sample app for NHibernate on WPF app
 
+[originating article] (https://msdn.microsoft.com/en-us/magazine/ee819139.aspx)
+
 links:
 
 * [Effectus: Building UI based on conventions] (https://ayende.com/blog/4331/effectus-building-ui-based-on-conventions)
